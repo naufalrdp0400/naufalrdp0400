@@ -1,4 +1,4 @@
-<h1 align="center">Halo 👋, saya [Naufal Rifky]</h1>
+<h1 align="center">Halo 👋, saya Naufal Rifky Dwi Putra</h1>
 <h3 align="center">Flutter Developer | Mobile & UI Enthusiast</h3>
 
 <p align="center">
